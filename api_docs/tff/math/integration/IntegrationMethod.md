@@ -1,0 +1,25 @@
+<div itemscope itemtype="http://developers.google.com/ReferenceObject">
+<meta itemprop="name" content="tff.math.integration.IntegrationMethod" />
+<meta itemprop="path" content="Stable" />
+<meta itemprop="property" content="COMPOSITE_SIMPSONS_RULE"/>
+</div>
+
+# tff.math.integration.IntegrationMethod
+
+<!-- Insert buttons and diff -->
+
+<table class="tfo-notebook-buttons tfo-api" align="left">
+</table>
+
+<a target="_blank" href="https://github.com/google/tf-quant-finance/blob/master/tf_quant_finance/math/integration/integrate.py">View source</a>
+
+
+
+Specifies which algorithm to use for the numeric integration.
+
+<!-- Placeholder for "Used in" -->
+
+
+## Class Variables
+
+* `COMPOSITE_SIMPSONS_RULE` <a id="COMPOSITE_SIMPSONS_RULE"></a>
